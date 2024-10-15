@@ -37,7 +37,8 @@ Business Recommendation:
    
 ## Next Steps
 
-1. Refine Ad Creatives: Conduct further testing to optimize the Test Campaign to reduce cost per purchase.
-2. Explore New Targeting Strategies: Evaluate different audience segments or geographic targeting to improve efficiency.
-3. Expand Analysis: Investigate the impact of other engagement metrics, like time spent on site or product interactions, to gather more granular insights.
-   
+1. Refine Ad Creatives 📧: Conduct further testing to optimize the Test Campaign to reduce cost per purchase.
+2. Explore New Targeting Strategies 🎯: Evaluate different audience segments or geographic targeting to improve efficiency.
+3. Expand Analysis 📊: Investigate the impact of other engagement metrics, like time spent on site or product interactions, to gather more granular insights.
+
+(Dataset Source: kaggle datasets download -d ilkeryildiz/example-dataset-for-ab-test)

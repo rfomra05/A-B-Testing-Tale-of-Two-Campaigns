@@ -15,13 +15,12 @@ The goal was to evaluate the performance of two marketing campaigns—Test Campa
 3. Conversion Rate Calculation: Calculated click-through rates (CTR), add-to-cart rates, and purchase rates to evaluate user engagement and purchasing behaviors.
 4. Statistical Testing: Performed a two-sample t-test to validate whether the differences between the two campaigns were statistically significant.
 
-## Skills Used
+## Skills
 
-- Python: Data analysis and manipulation (Pandas, NumPy), statistical testing (SciPy), and visualizations (Matplotlib, Seaborn).
-- A/B Testing: Conducted statistical hypothesis testing to compare the performance of two groups.
-- Funnel Analysis: Created visualizations to track user progression through key stages (Impressions → Clicks → Purchases).
-- Business Analytics: Extracted actionable insights from data to support decision-making.
-- Visualization: Built compelling charts to summarize key findings and improve data storytelling.
+Python: Data analysis and manipulation (Pandas, NumPy), statistical testing (SciPy), and visualizations (Matplotlib, Seaborn).
+A/B Testing: Conducted statistical hypothesis testing to compare the performance of two groups.
+Funnel Analysis: Created visualizations to track user progression through key stages (Impressions → Clicks → Purchases).
+Business Analytics: Extracted actionable insights from data to support decision-making.
 
 ## Results & Business Recommendation
 

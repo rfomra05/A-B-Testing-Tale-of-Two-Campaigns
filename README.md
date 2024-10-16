@@ -2,15 +2,17 @@
 
 ## Executive Summary
 
-This project focused on an A/B testing case study comparing two digital marketing campaigns to determine which performed better in driving user engagement and purchases. I conducted a detailed analysis of key conversion metrics, performed statistical testing, and provided data-driven recommendations based on the insights. The test campaign demonstrated higher click-through and purchase rates, but the control campaign had a lower cost per purchase. Skills applied include A/B testing methodology, funnel analysis, and statistical testing using Python. The recommendation is to refine the Test Campaign to improve cost efficiency while leveraging the Control Campaign’s insights for product presentation and targeting strategies.
+This project focused on an A/B testing case study comparing two digital marketing campaigns to determine which performed better in driving: a) user engagement and b) purchases. 
+
+I conducted a detailed analysis of key conversion metrics, performed statistical testing, and provided data-driven recommendations based on the insights. The test campaign demonstrated higher click-through and purchase rates, but the control campaign had a lower cost per purchase. Skills applied include A/B testing methodology, funnel analysis, and statistical testing using Python. The recommendation is to refine the Test Campaign to improve cost efficiency while leveraging the Control Campaign’s insights for product presentation and targeting strategies.
 
 ## Business Problem
 
-The goal was to evaluate the performance of two marketing campaigns—Test Campaign and Control Campaign—to understand which one led to better user engagement (clicks, add-to-cart actions, purchases) and determine whether the Test Campaign’s improvements justify a potential higher ad spend. The business needs to know which campaign should be adopted moving forward to maximize ROI and reduce customer acquisition costs.
+The goal was to evaluate the performance of two marketing campaigns: Test Campaign and Control Campaign; to understand which one led to better user engagement (clicks, add-to-cart actions, purchases) and determine whether the Test Campaign’s improvements justify a potential higher ad spend. The business needs to know which campaign should be adopted moving forward.
 
 ## Methodology
 
-1. Data Preparation: Analyzed user interaction data from both campaigns, focusing on key metrics like impressions, clicks, add-to-cart actions, and purchases.
+1. Data Preparation: Analyzed user interaction data from both the campaigns, focusing on key metrics like impressions, clicks, add-to-cart actions and purchases.
 2. Funnel Analysis: Created a funnel chart to visualize how users moved from impressions to purchases in each campaign.
 3. Conversion Rate Calculation: Calculated click-through rates (CTR), add-to-cart rates, and purchase rates to evaluate user engagement and purchasing behaviors.
 4. Statistical Testing: Performed a two-sample t-test to validate whether the differences between the two campaigns were statistically significant.
@@ -18,8 +20,8 @@ The goal was to evaluate the performance of two marketing campaigns—Test Campa
 ## Skills
 
 Python: Data analysis and manipulation (Pandas, NumPy), statistical testing (SciPy), and visualizations (Matplotlib, Seaborn).
-A/B Testing: Conducted statistical hypothesis testing to compare the performance of two groups.
-Funnel Analysis: Created visualizations to track user progression through key stages (Impressions → Clicks → Purchases).
+A/B Testing: Conducted statistical hypothesis testing to compare the performance of the two groups.
+Funnel Analysis: Created visualizations to track user progression through the key stages (Impressions → Clicks → Add to cart → Purchases).
 Business Analytics: Extracted actionable insights from data to support decision-making.
 
 ## Results & Business Recommendation
@@ -32,7 +34,6 @@ Key Results:
 Business Recommendation:
 1. Optimize the Test Campaign: It has potential but requires cost optimization to lower the cost per purchase.
 2. Leverage Control Campaign Learnings: The higher add-to-cart rate in the Control Campaign suggests users were more motivated to add items to the cart, so refining the Test Campaign’s user journey could be a key improvement.
-3. Next Steps: Consider further A/B testing on additional variables, such as ad creatives or targeting strategies, to boost performance while reducing costs.
    
 ## Next Steps
 
